@@ -17,7 +17,7 @@ Insights: Summarized key findings and patterns from the analysis.<br>
 
 **Results**
 
-The analysis revealed significant patterns and hotspots:
+The analysis revealed significant patterns and hotspots:<br>
 Accident Hotspots: Visualized geographic areas with high accident frequencies.<br>
 Contributing Factors: Identified key factors such as adverse weather conditions and specific times of day that increase accident likelihood.<br>
 Road Conditions: Highlighted the impact of various road conditions on accident occurrences.<br>
