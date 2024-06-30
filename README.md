@@ -8,7 +8,7 @@ This project analyzes traffic accident data to identify patterns related to road
 
 **Steps Completed**
 
-Data Collection: Downloaded the traffic accident dataset from Kaggle.
+Data Collection: Downloaded the traffic accident dataset from Kaggle. \n
 Data Cleaning: Preprocessed the dataset to handle missing values, duplicates, and irrelevant information.
 Exploratory Data Analysis (EDA): Conducted EDA to understand the distribution and relationships between various factors.
 Pattern Identification: Analyzed how road conditions, weather, and time of day affect accident occurrences.
